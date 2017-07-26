@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 .bundle
 .sass-cache
 _site
 Gemfile.lock
+=======
+.sass-cache
+>>>>>>> 37e8fb9e145fef70d68d70335d20655419be9912
 .DS_Store
